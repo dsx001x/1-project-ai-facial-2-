@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionTrack AI Attendance",
+  "description": "An advanced facial recognition attendance system using Gemini AI to automate tracking, prevent proxies, and provide real-time classroom analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
